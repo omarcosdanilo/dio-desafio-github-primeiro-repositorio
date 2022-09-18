@@ -10,8 +10,8 @@
 > Este é um
 >> bloco
 
-Uma | Tabela
---- | ------
-1   | um
-2   | dois
-3   | três
+Uma | Tabela | alinhada
+--- | ------ | :--------:
+1   | um     | centro
+2   | dois   | centro
+3   | três   | centro
