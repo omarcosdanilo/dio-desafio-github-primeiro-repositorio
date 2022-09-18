@@ -9,3 +9,9 @@
 
 > Este é um
 >> bloco
+
+Uma | Tabela
+--- | ------
+1   | um
+2   | dois
+3   | três
